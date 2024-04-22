@@ -1,5 +1,5 @@
 homepage: "https://www.sooro.io"
 documentation: "https://www.sooro.io/docs/gtm-templates/web-variables/advanced-event-id"
 versions:
-  - sha: e7de0ce914116d1cf70534340b916eabaa80cbdb
-    changeNotes: Initial release
+  - sha: 75c74efb37852006c5819ab474d549261b6e84e3
+    changeNotes: Initial release.
